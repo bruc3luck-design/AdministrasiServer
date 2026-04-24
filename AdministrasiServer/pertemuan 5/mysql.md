@@ -32,4 +32,4 @@
 - Masukan Command (mysql -u userCompro -p)
 - Masukan Password
 - Cek apakah database dbCompro sudah ada (show databases;)
-![alt text](image-6.png)
+![alt text](image-7.png)
