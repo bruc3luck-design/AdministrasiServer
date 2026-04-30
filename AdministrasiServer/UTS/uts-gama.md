@@ -26,6 +26,10 @@ Saya mengunggah source code website CV ke server menggunakan FileZilla.
 ![alt text](image-1.png)
 Saya memindahkan file website ke document root Nginx, yaitu /var/www/html, agar dapat dilayani oleh web server.
 ![alt text](<Screenshot 2026-04-13 161822.png>)
+
+Output 
+![alt text](image-2.png)
+
 Setelah semua konfigurasi selesai, saya mengambil 4 screenshot wajib, yaitu:
 halaman utama EC2 yang menampilkan instance dan Elastic IP, halaman Security Group Inbound Rules, halaman CloudWatch Alarm berstatus OK, dan tampilan terminal saat menjalankan sudo systemctl status nginx.
-Seluruh screenshot kemudian saya susun rapi ke dalam 1 file PDF untuk dikumpulkan ke LMS sebagai bukti administrasi dan verifikasi keamanan.
+Seluruh screenshot kemudian saya susun rapi ke dalam 1 file PDF sebagai bukti administrasi dan verifikasi keamanan.
